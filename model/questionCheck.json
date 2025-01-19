@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Paper will burn at approximately what temperature, in Fahrenheit?",
+    "A": "98.6 degrees",
+    "B": "212.5 degrees",
+    "C": "398.5 degrees",
+    "D": "451 degrees",
+    "answer": "D"
+  },
+  {
+    "question": "During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?",
+    "A": "American Revolution",
+    "B": "War of 1812",
+    "C": "Civil War",
+    "D": "World War I",
+    "answer": "B"
+  },
+  {
+    "question": "In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?",
+    "A": "cheese",
+    "B": "fruit",
+    "C": "gravy",
+    "D": "whipped cream",
+    "answer": "A"
+  },
+  {
+    "question": "In 1978, who became the youngest jockey ever to win horse racing's triple crown?",
+    "A": "Jerry Bailey",
+    "B": "Steve Cauthen",
+    "C": "Willie Shoemaker",
+    "D": "Pasquale Devito",
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is not one of superhero Captain Marvel's abilities?",
+    "A": "the power of Apollo",
+    "B": "the strength of Hercules",
+    "C": "the courage of Achilles",
+    "D": "the wisdom of Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "How long is the time on an NBA shot clock?",
+    "A": "18 seconds",
+    "B": "24 seconds",
+    "C": "30 seconds",
+    "D": "35 seconds",
+    "answer": "B"
+  },
+  {
+    "question": "What part of the human body does a gastroenterologist examine?",
+    "A": "brain",
+    "B": "skeleton",
+    "C": "stomach",
+    "D": "nose",
+    "answer": "C"
+  },
+  {
+    "question": "What color is Uncle Sam's goatee?",
+    "A": "brown",
+    "B": "black ",
+    "C": "white",
+    "D": "dishwater blond",
+    "answer": "C"
+  },
+  {
+    "question": "What nationality was Karl Marx?",
+    "A": "Russian",
+    "B": "German",
+    "C": "Danish",
+    "D": "English",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the English king at the time of the American Revolution?",
+    "A": "Charles I",
+    "B": "James I",
+    "C": "Edward III",
+    "D": "George III",
+    "answer": "D"
+  }
+]
